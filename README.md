@@ -1,5 +1,5 @@
 # Heart-disease-ml-project
-### Install
+### About
 
 This project requires **Python** and the following Python libraries installed:
 
