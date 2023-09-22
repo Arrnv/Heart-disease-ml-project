@@ -1,4 +1,8 @@
 # Heart-disease-ml-project
+
+## Discription
+This project is dedicated to the development of a predictive model leveraging machine learning algorithms to determine the presence or absence of heart disease in patients. Additionally, the project encompasses a comprehensive data analysis phase to inform the construction and refinement of the machine learning model.
+
 ### About
 
 This project requires **Python** and the following Python libraries installed:
